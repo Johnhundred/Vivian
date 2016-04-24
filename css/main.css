@@ -2,4 +2,5 @@ body {
     min-height:100vh;
     min-width:100vw;
     margin:0px; /* This is a useless comment*/
+    background-color: green;
 }
