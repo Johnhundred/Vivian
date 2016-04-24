@@ -1,5 +1,4 @@
-.test {
-    color:red;
-    width: 10px;
-    height: 10px;
+body {
+    min-height:100vh;
+    min-width:100vw;
 }
