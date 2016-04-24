@@ -3,6 +3,10 @@
 
 $main-color: #dfdfdf;
 
+.responsive {
+  @include outer-container
+}
+
 body {
   min-height:100vh;
   min-width:100vw;
